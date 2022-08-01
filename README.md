@@ -37,4 +37,5 @@
 <div align="left">
   <a href="https://github.com/jacksrjack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksrjack&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github.com/jacksrjack/jacksrjack/blob/main/IMG_20210412_225652_818.jpg"/>
 </div>
